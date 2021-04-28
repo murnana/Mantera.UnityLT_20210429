@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 384953e6c2abf1b438f7eb6ce71d26e0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ricty Diminished Discord
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b2d51e5d1830948499ceb5a40cc6e047, type: 3}
+  - {fileID: 12800000, guid: 0063bf7dbace96f4fbb93ac1a4fbfb9a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
