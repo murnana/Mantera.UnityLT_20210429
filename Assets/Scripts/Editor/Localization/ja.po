@@ -1,0 +1,2 @@
+msgid "Cannot have multiple {0}"
+msgstr "複数の {0} を持つことはできません"

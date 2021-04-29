@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System;
+
+using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 #if UNITY_EDITOR
@@ -11,6 +13,9 @@ namespace ManteraUnityLT
     /// <summary>
     /// ライトの色をコントロールするためのトラック
     /// </summary>
+    [Serializable]
+    [ExcludeFromPreset]
+    [ExcludeFromObjectFactory]
     [TrackBindingType(typeof(Light))]
     [TrackClipType(clipClass: typeof(LightColorClip))]
 #if UNITY_EDITOR

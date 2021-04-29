@@ -27,6 +27,19 @@ MonoBehaviour:
   m_Clips: []
   m_Markers:
     m_Objects: []
+--- !u!114 &-9068902026533868390
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 0.08333333333333333
 --- !u!114 &-8958250402989673669
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -144,6 +157,19 @@ MonoBehaviour:
   m_Clips: []
   m_Markers:
     m_Objects: []
+--- !u!114 &-8285548356883734889
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 0.11666666666666667
 --- !u!114 &-8204578202008897532
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -185,6 +211,19 @@ MonoBehaviour:
   m_Clips: []
   m_Markers:
     m_Objects: []
+--- !u!114 &-7617966391937019868
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 15.966666666666667
 --- !u!114 &-7559255505832424397
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -207,6 +246,19 @@ MonoBehaviour:
   m_Loop: 1
   m_Version: 1
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
+--- !u!114 &-6516284874233205803
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 10.95
 --- !u!114 &-6357687971742635124
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -986,6 +1038,45 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
   m_Name: ActivationPlayableAsset
   m_EditorClassIdentifier: 
+--- !u!114 &-587804972617522629
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 0
+--- !u!114 &-444833643211459327
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 0.06666666666666667
+--- !u!114 &-243062420297495561
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 16.033333333333335
 --- !u!114 &-221080161307184358
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1026,6 +1117,19 @@ MonoBehaviour:
   m_Clips: []
   m_Markers:
     m_Objects: []
+--- !u!114 &-67661862505883087
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 16.016666666666666
 --- !u!114 &-66771978465078948
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1052,6 +1156,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Version: 0
   m_Tracks:
+  - {fileID: 3039548999942040178}
   - {fileID: -4397326500090312748}
   - {fileID: -9083193737670341340}
   - {fileID: -7991120535309357551}
@@ -1312,6 +1417,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
   m_Name: ActivationPlayableAsset
   m_EditorClassIdentifier: 
+--- !u!114 &1024577278098693904
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 15.933333333333334
 --- !u!114 &1053508010996240634
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1668,6 +1786,72 @@ MonoBehaviour:
   m_Markers:
     m_Objects: []
   m_PostPlaybackState: 3
+--- !u!114 &3027608118463022910
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 15.983333333333333
+--- !u!114 &3039548999942040178
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91b83ddffb8541e4a7cfed5def1d2b92, type: 3}
+  m_Name: Timeline Controller Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips: []
+  m_Markers:
+    m_Objects:
+    - {fileID: 3650151814265956528}
+    - {fileID: -587804972617522629}
+    - {fileID: 4053748193868093166}
+    - {fileID: 5817850326749388412}
+    - {fileID: -444833643211459327}
+    - {fileID: -9068902026533868390}
+    - {fileID: 3253914579582773226}
+    - {fileID: -8285548356883734889}
+    - {fileID: -6516284874233205803}
+    - {fileID: 1024577278098693904}
+    - {fileID: 6085575339341054577}
+    - {fileID: -7617966391937019868}
+    - {fileID: 3027608118463022910}
+    - {fileID: 7844261994511155437}
+    - {fileID: -67661862505883087}
+    - {fileID: -243062420297495561}
+    - {fileID: 3369964724647907611}
+--- !u!114 &3253914579582773226
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 0.1
 --- !u!114 &3291035797785960968
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1682,6 +1866,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Color: {r: 1, g: 0.43921572, b: 0, a: 1}
   m_Intensity: 0
+--- !u!114 &3369964724647907611
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 16.05
+--- !u!114 &3650151814265956528
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 0.016666666666666666
 --- !u!114 &3744012833124160824
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1799,6 +2009,19 @@ MonoBehaviour:
   m_Clips: []
   m_Markers:
     m_Objects: []
+--- !u!114 &4053748193868093166
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 0.03333333333333333
 --- !u!114 &4185420484076327630
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1928,6 +2151,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
   m_Name: ActivationPlayableAsset
   m_EditorClassIdentifier: 
+--- !u!114 &5817850326749388412
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 0.05
 --- !u!114 &5858706908883204301
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2033,6 +2269,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
   m_Name: ActivationPlayableAsset
   m_EditorClassIdentifier: 
+--- !u!114 &6085575339341054577
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 15.95
 --- !u!114 &6135941091491293086
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2162,6 +2411,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
   m_Name: ActivationPlayableAsset
   m_EditorClassIdentifier: 
+--- !u!114 &7844261994511155437
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a48afdf82f4308ba67a0bcddefd203, type: 3}
+  m_Name: Pause
+  m_EditorClassIdentifier: 
+  m_Time: 16
 --- !u!114 &7863558502312729218
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -24330,7 +24592,25 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve: []
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -24357,13 +24637,49 @@ MonoBehaviour:
     m_BlendOutDuration: 0.7666666666666675
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve: []
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve: []
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -24390,13 +24706,49 @@ MonoBehaviour:
     m_BlendOutDuration: 4.983333333333336
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve: []
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve: []
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -24423,7 +24775,25 @@ MonoBehaviour:
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve: []
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4

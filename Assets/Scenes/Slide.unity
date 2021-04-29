@@ -1783,6 +1783,7 @@ GameObject:
   m_Component:
   - component: {fileID: 529507700}
   - component: {fileID: 529507699}
+  - component: {fileID: 529507701}
   m_Layer: 0
   m_Name: Playable Director
   m_TagString: Untagged
@@ -1851,6 +1852,8 @@ PlayableDirector:
     value: {fileID: 1615756277}
   - key: {fileID: 0}
     value: {fileID: 0}
+  - key: {fileID: 3039548999942040178, guid: f2bf145754d2e2649b84eeb307ef0abf, type: 2}
+    value: {fileID: 529507701}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &529507700
@@ -1867,6 +1870,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &529507701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 529507698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 266685d1a70a4fae9980231cd8e9f961, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PlayableDirector: {fileID: 529507699}
 --- !u!1 &577021018
 GameObject:
   m_ObjectHideFlags: 0
@@ -3951,9 +3967,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_SlideNext: {fileID: -1646603582549885289, guid: 074058842acdcc444a69ca3aaf587d50, type: 3}
   m_SlidePrev: {fileID: -1967131758277974688, guid: 074058842acdcc444a69ca3aaf587d50, type: 3}
-  m_Slides:
-  - m_Slide: {fileID: 1414793518}
-    m_PlayableDirector: {fileID: 0}
+  m_PlayableDirector: {fileID: 529507699}
+  m_TimelineController: {fileID: 529507701}
 --- !u!1 &1358076186
 GameObject:
   m_ObjectHideFlags: 0
@@ -5678,8 +5693,8 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.43921572, b: 0, a: 1}
-  m_Intensity: 0
+  m_Color: {r: 1, g: 0.43921575, b: 0, a: 1}
+  m_Intensity: 0.00003349781
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208

@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 using UnityEngine;
 using UnityEngine.Playables;
@@ -9,6 +10,9 @@ namespace ManteraUnityLT
     /// <summary>
     /// ライトのカラーをコントロールするためのトラックのクリップ
     /// </summary>
+    [Serializable]
+    [ExcludeFromPreset]
+    [ExcludeFromObjectFactory]
     internal sealed class LightColorClip : PlayableAsset, ITimelineClipAsset
     {
         [SerializeField]
